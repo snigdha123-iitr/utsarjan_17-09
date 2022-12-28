@@ -1,0 +1,10 @@
+//final String serverIP =  'http://192.168.43.100:2767'; //'https://utsarjan-backend.herokuapp.com';//'http://192.168.43.69:2676';// //
+//final String serverIP =  'http://192.168.1.1:2767';
+//final String serverIP = 'https://compbio.iitr.ac.in:2767';
+//final String serverIP = 'http://compbio.iitr.ac.in/utsarjan/';//production
+//final String serverIP =  'http://172.20.10.5:2767';//iphone
+//final String serverIP =  'http://127.0.0.1:2767';
+//final String serverIP = 'https://utsarjan-backend-api-codes.herokuapp.com';
+//final String serverIP = 'https://1ddd-43-249-228-63.ngrok.io';
+//final String serverIP = 'https://utsarjantry.herokuapp.com';
+final String serverIP = 'http://compbio.iitr.ac.in/utsarjan';

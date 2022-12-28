@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1076488914237",
+    "project_id": "utsarjan-c8089",
+    "storage_bucket": "utsarjan-c8089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076488914237:android:41c43b7e838f148a307154",
+        "android_client_info": {
+          "package_name": "com.utsarjan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076488914237-r27u2sik014bufppecl1fej2halost7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utsarjan",
+            "certificate_hash": "8cf269ae10e7c39c1d7375d5edb686ec72c82afb"
+          }
+        },
+        {
+          "client_id": "1076488914237-0abrrmgag0pehef904b1pieetfpneb06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCSATtJUU9YDKyhGx6bq7jpKUdXE1d1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076488914237-0abrrmgag0pehef904b1pieetfpneb06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
